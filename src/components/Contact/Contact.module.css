@@ -1,0 +1,16 @@
+.contactWrapper {
+    border: 1px solid #111;
+    border-radius: 5px;
+    padding: 7px 5px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.infoWrapper {
+    width: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
